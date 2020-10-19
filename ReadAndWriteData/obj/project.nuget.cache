@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfRQ0nn1iVR3rmH6r0qUJXIXqVLuXyoqL71Kv/5sEsOAM7lmmuweUzrVnevK3uS2TswqXWYNeFSfnG8UD/XE+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\This_User\\Desktop\\Technut 14\\MyProject\\1\\Main\\ReadAndWriteData\\ReadAndWriteData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
